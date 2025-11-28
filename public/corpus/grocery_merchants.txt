@@ -1,0 +1,58 @@
+===== grocery_merchants.txt =====
+Blinkit
+Zepto
+BigBasket
+DMart Ready
+Reliance Smart
+Instamart
+Spencer's
+More Supermarket
+Nature's Basket
+Easyday
+Star Bazaar
+Foodhall
+Apna Bazaar
+A1 Store
+Heritage Fresh
+Hypercity
+Godrej Nature's Basket
+FoodWorld
+EasyMart
+FreshToHome
+Farmers Market
+GreenMart
+VeggieMart
+Happy Fresh
+Supermart
+MegaMart
+QuickBasket
+Shopper's Stop
+Market Basket
+FreshPick
+Daily Needs
+LocalMart
+CityFresh
+UrbanMart
+HappyVeg
+VeggieBazaar
+GreenBasket
+DailyBasket
+BazaarKing
+SmartBasket
+FreshNFast
+PicknPay
+GroceryHub
+FreshlyPick
+GrocerMax
+UrbanBasket
+FarmFresh
+BazaarMart
+QuickShop
+EasyBasket
+FreshLand
+DailyMart
+GreenGrocery
+MegaGrocery
+PickBasket
+LocalBasket
+ShopMart

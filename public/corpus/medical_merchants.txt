@@ -1,0 +1,93 @@
+===== medical_merchants.txt =====
+Apollo Pharmacy
+NetMeds
+Dr. Lal PathLabs
+1mg
+Local Chemist
+MedPlus
+Apollo Hospitals Pharmacy
+Medlife
+HealthKart
+PharmEasy
+Care Pharmacy
+Apollo Care
+Zoylo Pharmacy
+Medicover
+Cloudnine Pharmacy
+Wellness Pharmacy
+LifeCare Pharmacy
+PharmaWorld
+MediQuick
+HealthPoint
+Apollo Diagnostics
+Medico India
+NetMed India
+PharmaOne
+CarePlus Pharmacy
+MedKart
+LifeLine Pharmacy
+MediStore
+HealthCure
+MediLife
+Apollo Health
+PharmaCare
+NetCare Pharmacy
+HealthLine
+MedPlus India
+MediQuick India
+PharmaLink
+CareHealth
+LifeMed
+Apollo Plus
+HealthMart
+MediCorner
+MedicoCare
+WellnessCare
+LifePlus Pharmacy
+PharmaSmart
+MediPlus
+HealthPoint India
+Care Pharmacy India
+MedKart India
+Apollo Diagnostics India
+Medicover India
+NetMeds India
+PharmaWorld India
+CarePlus India
+LifeLine India
+MediStore India
+HealthCure India
+MediLife India
+Apollo Health India
+PharmaCare India
+NetCare India
+HealthLine India
+MedPlus India
+MediQuick India
+PharmaLink India
+CareHealth India
+LifeMed India
+Apollo Plus India
+HealthMart India
+MediCorner India
+MedicoCare India
+WellnessCare India
+LifePlus India
+PharmaSmart India
+MediPlus India
+HealthPoint India
+Care Pharmacy India
+MedKart India
+Apollo Diagnostics India
+Medicover India
+NetMeds India
+PharmaWorld India
+CarePlus India
+LifeLine India
+MediStore India
+HealthCure India
+MediLife India
+Apollo Health India
+PharmaCare India
+NetCare India
+HealthLine India

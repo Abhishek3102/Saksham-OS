@@ -1,0 +1,129 @@
+[
+  {
+    "id": "3b53b9c3-699a-4de3-94c3-41a418e3c48a",
+    "recipient_id": "user_101",
+    "type": "bid_received",
+    "title": "New Bid: sajkfnkafnnnnnvnv",
+    "message": "Abhishek Pandey placed a bid of $13522",
+    "related_job_id": "6927edc4f80c1e3ef28ddba3",
+    "read": false,
+    "created_at": "2025-11-27T06:21:20.756Z",
+    "data": {
+      "bid_id": "d3ecb6f1-626f-429e-beef-9ea2a52ade61",
+      "amount": 13522,
+      "freelancer_id": "user_100",
+      "freelancer_name": "Abhishek Pandey"
+    }
+  },
+  {
+    "id": "dd40da17-8577-4fa8-9bbb-55641eb48d10",
+    "recipient_id": "user_101",
+    "type": "bid_received",
+    "title": "New Bid: sjkjkkjsfkjadnnjd",
+    "message": "badhir placed a bid of $48565",
+    "related_job_id": "6927eb791606208e7c510b9c",
+    "read": false,
+    "created_at": "2025-11-27T06:17:11.743Z",
+    "data": {
+      "bid_id": "907f62eb-01ff-42fc-9c41-e689ea70dea6",
+      "amount": 48565,
+      "freelancer_id": "user_103",
+      "freelancer_name": "badhir"
+    }
+  },
+  {
+    "id": "dae9c325-aee4-4bbd-bfb5-ee101dbf62e9",
+    "recipient_id": "user_101",
+    "type": "bid_received",
+    "title": "New Bid: sjkjkkjsfkjadnnjd",
+    "message": "Abhishek Pandey placed a bid of $47000",
+    "related_job_id": "6927eb791606208e7c510b9c",
+    "read": false,
+    "created_at": "2025-11-27T06:11:33.989Z",
+    "data": {
+      "bid_id": "addaee10-1b51-4203-a617-f7bfff9eb618",
+      "amount": 47000,
+      "freelancer_id": "user_100",
+      "freelancer_name": "Abhishek Pandey"
+    }
+  },
+  {
+    "id": "a56632f2-6b20-4f15-93be-3f59e7e657ec",
+    "recipient_id": "user_101",
+    "type": "bid_received",
+    "title": "New Bid: make a full fledged website for credential storing and verification on blockchain",
+    "message": "Abhishek Pandey placed a bid of $35642",
+    "related_job_id": "6927e89386cc0f2d4090351c",
+    "read": false,
+    "created_at": "2025-11-27T06:09:00.409Z",
+    "data": {
+      "bid_id": "ac348575-7719-4c62-84ee-4be710b593ad",
+      "amount": 35642,
+      "freelancer_id": "user_100",
+      "freelancer_name": "Abhishek Pandey"
+    }
+  },
+  {
+    "notification_id": "notif_1764239873651_2f80c",
+    "recipient_id": "user_100",
+    "type": "job_match",
+    "message": "New Job Match: app for ios and android (Mobile)",
+    "related_job_id": "69282a015d9b8eff349e3679",
+    "is_read": false,
+    "created_at": "2025-11-27T10:37:53.651Z"
+  },
+  {
+    "notification_id": "notif_1764239873651_d09xz",
+    "recipient_id": "user_102",
+    "type": "job_match",
+    "message": "New Job Match: app for ios and android (Mobile)",
+    "related_job_id": "69282a015d9b8eff349e3679",
+    "is_read": false,
+    "created_at": "2025-11-27T10:37:53.651Z"
+  },
+  {
+    "notification_id": "notif_1764239873651_q1ez1",
+    "recipient_id": "user_103",
+    "type": "job_match",
+    "message": "New Job Match: app for ios and android (Mobile)",
+    "related_job_id": "69282a015d9b8eff349e3679",
+    "is_read": false,
+    "created_at": "2025-11-27T10:37:53.651Z"
+  },
+  {
+    "notification_id": "notif_1764264123964_qdg4w",
+    "recipient_id": "user_100",
+    "type": "job_match",
+    "message": "New Job Match: write essay (DevOps)",
+    "related_job_id": "692888bbff0ffefd32848739",
+    "is_read": false,
+    "created_at": "2025-11-27T17:22:03.964Z"
+  },
+  {
+    "notification_id": "notif_1764264123964_akllk",
+    "recipient_id": "user_102",
+    "type": "job_match",
+    "message": "New Job Match: write essay (DevOps)",
+    "related_job_id": "692888bbff0ffefd32848739",
+    "is_read": false,
+    "created_at": "2025-11-27T17:22:03.964Z"
+  },
+  {
+    "notification_id": "notif_1764264123964_66rhz",
+    "recipient_id": "user_103",
+    "type": "job_match",
+    "message": "New Job Match: write essay (DevOps)",
+    "related_job_id": "692888bbff0ffefd32848739",
+    "is_read": false,
+    "created_at": "2025-11-27T17:22:03.964Z"
+  },
+  {
+    "notification_id": "notif_1764264123964_04ye4",
+    "recipient_id": "user_104",
+    "type": "job_match",
+    "message": "New Job Match: write essay (DevOps)",
+    "related_job_id": "692888bbff0ffefd32848739",
+    "is_read": false,
+    "created_at": "2025-11-27T17:22:03.964Z"
+  }
+]

@@ -1,0 +1,33 @@
+===== transport_merchants.txt =====
+Uber
+Ola
+Rapido
+Shell Petrol Pump
+HP Petrol
+Uber Auto
+Meru Cabs
+Savaari
+Zoomcar
+MG Car Rentals
+Revv
+Drivezy
+Meru Car Rentals
+TFS Taxi
+Quick Ride
+Lyft India
+Grab India
+Bird Scooters
+Bounce
+Yulu
+Vogo
+Ola Bike
+Uber Bike
+Rapido Bike
+Savaari Bike
+Zoomcar Bike
+MG Car Rentals Bike
+Revv Bike
+Drivezy Bike
+Meru Car Rentals Bike
+TFS Taxi Bike
+Quick Ride Bike

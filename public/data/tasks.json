@@ -1,0 +1,23 @@
+[
+    {
+        "id": "task_101",
+        "title": "Complete Project Proposal",
+        "dueDate": "2025-11-30T17:00:00Z",
+        "estHours": 4,
+        "done": false
+    },
+    {
+        "id": "task_102",
+        "title": "Review Client Feedback",
+        "dueDate": "2025-11-28T10:00:00Z",
+        "estHours": 1,
+        "done": false
+    },
+    {
+        "id": "task_103",
+        "title": "Update Portfolio",
+        "dueDate": "2025-12-05T12:00:00Z",
+        "estHours": 3,
+        "done": false
+    }
+]

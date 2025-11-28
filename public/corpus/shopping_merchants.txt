@@ -1,0 +1,75 @@
+===== shopping_merchants.txt =====
+Amazon India
+Flipkart
+Myntra
+Uniqlo
+Nykaa
+Decathlon
+Ajio
+Croma
+Tata CLiQ
+Reliance Digital
+Pepperfry
+Big Bazaar
+Lifestyle
+Voonik
+Fynd
+Snapdeal
+ShopClues
+FabIndia
+Shoppers Stop
+Lenskart
+Myntra Studio
+H&M India
+Zara India
+Marks & Spencer India
+Levi's India
+Adidas India
+Nike India
+Puma India
+Reebok India
+Skechers India
+Decathlon India
+Amazon Fresh
+Flipkart Supermart
+BigBasket Online
+Myntra Online
+Ajio Online
+Nykaa Online
+Voonik Online
+Snapdeal Online
+ShopClues Online
+FabIndia Online
+Shoppers Stop Online
+Lenskart Online
+H&M Online
+Zara Online
+Marks & Spencer Online
+Levi's Online
+Adidas Online
+Nike Online
+Puma Online
+Reebok Online
+Skechers Online
+Decathlon Online
+Amazon India Mall
+Flipkart Mall
+Myntra Mall
+Ajio Mall
+Nykaa Mall
+Voonik Mall
+Snapdeal Mall
+ShopClues Mall
+FabIndia Mall
+Shoppers Stop Mall
+Lenskart Mall
+H&M Mall
+Zara Mall
+Marks & Spencer Mall
+Levi's Mall
+Adidas Mall
+Nike Mall
+Puma Mall
+Reebok Mall
+Skechers Mall
+Decathlon Mall

@@ -1,0 +1,64 @@
+[
+  {
+    "bid_id": "ac348575-7719-4c62-84ee-4be710b593ad",
+    "job_id": "6927e89386cc0f2d4090351c",
+    "freelancer_id": "user_100",
+    "freelancerName": "Abhishek Pandey",
+    "amount": 35642,
+    "proposal": "mmmm",
+    "created_at": "2025-11-27T06:09:00.399Z",
+    "status": "pending"
+  },
+  {
+    "bid_id": "addaee10-1b51-4203-a617-f7bfff9eb618",
+    "job_id": "6927eb791606208e7c510b9c",
+    "freelancer_id": "user_100",
+    "freelancerName": "Abhishek Pandey",
+    "amount": 47000,
+    "proposal": "lelo bas",
+    "created_at": "2025-11-27T06:11:33.957Z",
+    "status": "pending"
+  },
+  {
+    "bid_id": "907f62eb-01ff-42fc-9c41-e689ea70dea6",
+    "job_id": "6927eb791606208e7c510b9c",
+    "freelancer_id": "user_103",
+    "freelancerName": "badhir",
+    "amount": 48565,
+    "proposal": "chahiye job",
+    "created_at": "2025-11-27T06:17:11.723Z",
+    "status": "pending"
+  },
+  {
+    "bid_id": "d3ecb6f1-626f-429e-beef-9ea2a52ade61",
+    "job_id": "6927edc4f80c1e3ef28ddba3",
+    "freelancer_id": "user_100",
+    "freelancerName": "Abhishek Pandey",
+    "amount": 13522,
+    "proposal": "best",
+    "created_at": "2025-11-27T06:21:20.736Z",
+    "status": "pending"
+  },
+  {
+    "bid_id": "bid_1764240747724_k4cfn",
+    "freelancer_id": "6926eb94cea34e70f99dfb98",
+    "freelancer_name": "Abhishek Pandey",
+    "amount": 18000,
+    "currency": "INR",
+    "proposal_text": "take me",
+    "estimated_days": null,
+    "status": "Pending",
+    "created_at": "2025-11-27T10:52:27.724Z"
+  },
+  {
+    "bid_id": "bid_1764264197663_e74yt",
+    "freelancer_id": "69287ff7ff0ffefd328486e4",
+    "freelancer_name": "vitthal",
+    "amount": 45111,
+    "currency": "INR",
+    "proposal_text": "best essay writer in town",
+    "estimated_days": null,
+    "status": "Pending",
+    "created_at": "2025-11-27T17:23:17.663Z"
+  }
+]

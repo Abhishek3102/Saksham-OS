@@ -1,0 +1,139 @@
+===== food_merchants.txt =====
+Swiggy
+Zomato
+Starbucks
+Burger King
+Chaayos
+Third Wave Coffee
+Dominos
+Costa Coffee
+Cafe Coffee Day
+Barista
+McDonald's
+KFC
+Subway
+Haldiram's
+Cafe Mocha
+Cafe Coffee Hub
+Blue Tokai
+Cafe De Paris
+Giani's Ice Cream
+Natural Ice Cream
+Cafe Nero
+Cafe Coffee Bean
+The Belgian Waffle Co.
+Tea Trails
+Brewberrys
+Mad Over Donuts
+Gong Cha
+Chai Point
+Cafe Barista
+Costa Brava
+Coffee Culture
+Cafe 7 Beans
+Cafe Coffee Lounge
+Cafe Coffee Time
+Cafe Coffee Works
+Cafe Coffee Lab
+Cafe Coffee Spot
+Cafe Express
+Cafe Latte
+Cafe Aromas
+Cafe Mocha House
+Cafe Coffee Studio
+Cafe Coffee Bar
+Cafe Coffee Terrace
+Cafe Coffee Court
+Cafe Coffee Garden
+Cafe Coffee Central
+Cafe Coffee Junction
+Cafe Coffee Avenue
+Cafe Coffee Point
+Cafe Coffee Hub
+Cafe Coffee Beanery
+Cafe Coffee Roasters
+Cafe Coffee Station
+Cafe Coffee Lounge
+Cafe Coffee Co.
+Cafe Coffee Depot
+Cafe Coffee Express
+Cafe Coffee Factory
+Cafe Coffee House
+Cafe Coffee Manor
+Cafe Coffee Shop
+Cafe Coffee Stop
+Cafe Coffee Works
+Cafe Coffee Yard
+Cafe Coffee Zone
+Cafe Coffee Hub & Co.
+Cafe Coffee Roastery
+Cafe Coffee Place
+Cafe Coffee Street
+Cafe Coffee Corner
+Cafe Coffee Collective
+Cafe Coffee Haven
+Cafe Coffee Lounge Bar
+Cafe Coffee Studio Cafe
+Cafe Coffee Central Perk
+Cafe Coffee House Express
+Cafe Coffee Company
+Cafe Coffee Garden Cafe
+Cafe Coffee Junction House
+Cafe Coffee Club
+Cafe Coffee Terrace Cafe
+Cafe Coffee Hub Cafe
+Cafe Coffee Roasters House
+Cafe Coffee Spot Cafe
+Cafe Coffee Point House
+Cafe Coffee Bean Cafe
+Cafe Coffee Court Cafe
+Cafe Coffee Lane
+Cafe Coffee Park
+Cafe Coffee Street Cafe
+Cafe Coffee Central Cafe
+Cafe Coffee Hub Street
+Cafe Coffee Stop Cafe
+Cafe Coffee Works Cafe
+Cafe Coffee Yard Cafe
+Cafe Coffee Zone Cafe
+Cafe Coffee Depot Cafe
+Cafe Coffee Express Cafe
+Cafe Coffee Factory Cafe
+Cafe Coffee House Cafe
+Cafe Coffee Manor Cafe
+Cafe Coffee Shop Cafe
+Cafe Coffee Stop House
+Cafe Coffee Works House
+Cafe Coffee Yard House
+Cafe Coffee Zone House
+Cafe Coffee Hub & Co. House
+Cafe Coffee Roastery House
+Cafe Coffee Place House
+Cafe Coffee Street House
+Cafe Coffee Corner House
+Cafe Coffee Collective House
+Cafe Coffee Haven House
+Cafe Coffee Lounge Bar House
+Cafe Coffee Studio Cafe House
+Cafe Coffee Central Perk House
+Cafe Coffee House Express House
+Cafe Coffee Company House
+Cafe Coffee Garden Cafe House
+Cafe Coffee Junction House Cafe
+Cafe Coffee Club House
+Cafe Coffee Terrace Cafe House
+Cafe Coffee Hub Cafe House
+Cafe Coffee Roasters House Cafe
+Cafe Coffee Spot Cafe House
+Cafe Coffee Point House Cafe
+Cafe Coffee Bean Cafe House
+Cafe Coffee Court Cafe House
+Cafe Coffee Lane House
+Cafe Coffee Park House
+Cafe Coffee Street Cafe House
+Cafe Coffee Central Cafe House
+Cafe Coffee Hub Street House
+Cafe Coffee Stop Cafe House
+Cafe Coffee Works Cafe House
+Cafe Coffee Yard Cafe House
+Cafe Coffee Zone Cafe House
